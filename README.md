@@ -1,9 +1,11 @@
-# oss-audit--24BCE11309-
+# oss-audit--24BCE10492-
 Capstone project for the OSS NGMC Course: A structured open-source audit of VLC Media Player, featuring custom Linux shell scripts for system analysis and automation.
 
 
 **Student Name:** Saksham Agrawal
+
 **Roll Number:** 24BCE10492
+
 **Course:** Open Source Software (OSS NGMC)
 **Chosen Software:** VLC Media Player
 
@@ -28,7 +30,7 @@ Follow these steps to run the scripts on your Linux terminal:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ChouhanGourav/oss-audit-24BCE11309.git](https://github.com/ChouhanGourav/oss-audit-24BCE11309.git)
+   git clone [https://github.com/sakshamagrawal0462/oss-audit--24BCE10492.git](https://github.com/sakshamagrawal0462/oss-audit--24BCE10492.git)
    cd oss-audit-24BCE11309
 2. **Grant execution permissions to all scripts:**
     chmod +x *.sh
